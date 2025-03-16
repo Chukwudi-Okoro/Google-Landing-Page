@@ -19,6 +19,26 @@ input{
     padding: none;
     text-align: left;
     text-indent: 8%;
+    display: flex;
+    justify-self: center;
+  }
+  #Icon1 {
+    position: absolute;
+    top: 36%;
+    left: 28.5%;
+    object-fit: cover;
+  }
+  #Icon2 {
+    position: absolute;
+    top: 36%;
+    left: 66%;
+    object-fit: cover;
+  }
+  #Icon3 {
+    position: absolute;
+    top: 36%;
+    left: 69%;
+    object-fit: cover;
   }
 .button {
     background-color: #3f4555;
@@ -82,24 +102,6 @@ p {
         color: white;
     }
 }
-#Icon1 {
-    position: absolute;
-    top: 36%;
-    left: 28.5%;
-    object-fit: cover;
-  }
-  #Icon2 {
-    position: absolute;
-    top: 36%;
-    left: 66%;
-    object-fit: cover;
-  }
-  #Icon3 {
-    position: absolute;
-    top: 36%;
-    left: 69%;
-    object-fit: cover;
-  }
 .footer-top {
     background-color: #1f2128;
     position: fixed;
