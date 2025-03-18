@@ -10,6 +10,7 @@ body {
     border: none;
     width: 40%;
     padding: 15px 45px;
+    outline: none;
     background: #3f4555;
   }
   #Icon1 {
